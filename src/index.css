@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@theme {
+  --font-display: "Playfair Display", serif;
+  --font-body: "Source Serif 4", serif;
+}
+body {
+  font-family: var(--font-body);
+}
+body {
+  background-color: #2f3f46;
+}
