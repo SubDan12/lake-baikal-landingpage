@@ -3,7 +3,8 @@
 A high-fidelity, design-driven landing page for a luxury travel brand, inspired by premium editorial layouts.  
 Built with a strong focus on **exact visual replication**, **subtle interactions**, and **responsive behavior** across devices.
 
-## Repository: https://github.com/SubDan12/lake-baikal-landingpage
+Live Demo: https://lake-baikal-landingpage.vercel.app/
+Repository: https://github.com/SubDan12/lake-baikal-landingpage
 
 ## Overview
 
