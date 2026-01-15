@@ -3,9 +3,9 @@
 A high-fidelity, design-driven landing page for a luxury travel brand, inspired by premium editorial layouts.  
 Built with a strong focus on **exact visual replication**, **subtle interactions**, and **responsive behavior** across devices.
 
----
+## Repository: https://github.com/SubDan12/lake-baikal-landingpage
 
-## ✨ Overview
+## Overview
 
 **Baikal Tours** is a modern, interactive single-page experience showcasing curated travel tours with a luxury aesthetic.
 
@@ -19,7 +19,7 @@ The project emphasizes:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **React** (Vite)
 - **Tailwind CSS v4**
@@ -32,7 +32,7 @@ The project emphasizes:
 
 ---
 
-## 📐 Key Features
+## Key Features
 
 ### Navigation
 
@@ -77,7 +77,7 @@ The project emphasizes:
 
 ---
 
-## 📱 Responsiveness
+## Responsiveness
 
 The layout adapts cleanly across:
 
@@ -94,7 +94,7 @@ Special care was taken to ensure:
 
 ---
 
-## ♿ Accessibility & UX
+## Accessibility & UX
 
 - Keyboard-accessible modals and menus
 - Escape key handling
